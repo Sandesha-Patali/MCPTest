@@ -1,2 +1,2 @@
 # MCPTest
-Testing MCP server
+Testing MCP server update
