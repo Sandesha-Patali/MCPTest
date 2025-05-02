@@ -1,0 +1,2 @@
+# MCPTest
+Testing MCP server
